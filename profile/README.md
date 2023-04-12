@@ -1,10 +1,11 @@
 # Welcome to the CDP Engineering Centre of Practice GitHub Organisation
 #### Created and maintained by Callum McGregor, Malek Aliouce, Nathan D'Souza, and Jasleen Kaur (The Comms Team)
 
-Learn what other Innovation Groups have been getting up to, using the code in each groups dedicated repo, and learn more by watching the recording on the [Streams site.](https://web.microsoftstream.com/group/934cc50c-e41a-4099-a6da-a5b0128226e7?view=channels)
 
 To access this Organisation, you must request an invitation. If you haven't yet, make sure to [request an invitation](https://forms.office.com/e/mJNvpCQmMC) to this Organisation <br>
 * **You must use your Capgemini email and have 2 factor authentication enabled**
+
+Learn what other Innovation Groups have been getting up to, using the code in each groups dedicated repo, and learn more by watching the recording on the [Streams site.](https://web.microsoftstream.com/group/934cc50c-e41a-4099-a6da-a5b0128226e7?view=channels)
 
 This is the companion to our [MS Streams site](https://web.microsoftstream.com/group/934cc50c-e41a-4099-a6da-a5b0128226e7?view=channels) where you can find recordings from Innovation Group sessions.
 
