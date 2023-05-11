@@ -1,4 +1,4 @@
-# Welcome to the CDP Engineering Centre of Practice GitHub Organisation
+# Welcome to the CDP Engineering CoP GitHub Organisation
 #### Created and maintained by Callum McGregor, Malek Aliouce, Nathan D'Souza, and Jasleen Kaur (The Comms Team)
 
 
